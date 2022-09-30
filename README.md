@@ -1,8 +1,8 @@
 ## Hey! Me chamo Erick, sou estudante de programação =D
 
-- 🌱 Estudando no momento Javascript
+- 🌱 Estudante do Full Stack Social, na trilha de programação front-end. 
 - 💬 Contate-me no email: erickmalaguezrowedder@gmail.com
-- 😄 Ele/Dele
+- 😄 Ele/Dele.
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=erickmrowedder">
