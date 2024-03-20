@@ -1,8 +1,8 @@
 ## Hey! Me chamo Erick, sou estudante de programação =D
 
 - 😄 Ele/Dele.
-- 🌱 Estudante do projeto Full Stack Social do Centro Social Marista (CESMAR), aprendiz na empresa PagoNxt, seguindo a trilha de programação Front-End. 
-- 💬 Contate-me no email: erickmalaguezrowedder@gmail.com
+- 🌱 Participei como jovem aprendiz do projeto Full Stack Social do Centro Social Marista e entrei na empresa PagoNxt Merchant Solutions Brazil ainda como aprendiz. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e atuo como estagiário na mesma.
+- 💬 Contate-me no email: erickmalaguezrowedder@gmail.com 
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=erickmrowedder">
